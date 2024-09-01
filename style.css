@@ -27,3 +27,7 @@ button{
     background: #38598b;
     color: #e7eaf6;
 }
+
+#palindrome{
+    font-weight: bolder;
+}
